@@ -1,0 +1,87 @@
+.button-portifolio {
+    color: #5FB4A2;
+}
+
+.hero-image {
+    width: 1580px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.content {
+    display: flex;
+    flex-direction: row;
+
+    margin-top: 70px;
+}
+
+.content-left {
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    margin-bottom: 1160px;
+}
+
+.content-left h1 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', sans-serif;
+    font-size: 57px;
+
+    margin-bottom: 30px;
+    margin-top: 55px;
+}
+
+.content-left h2 {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 23px;
+    font-weight: 400;
+
+    margin-bottom: 90px;
+
+    width: 520px;
+    line-height: 43px;
+    opacity: 0.8;
+}
+
+.content-left h3 {
+    color: #5FB4A2;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 700;
+
+    margin-bottom: 30px;
+}
+
+.white-button {
+    width: 220px;
+    height: 60px;
+
+    margin-top: 45px;
+}
+
+.content-right {
+    margin-left: 150px;
+}
+
+.content-right h2 {
+    color: #33323D;
+    font-family: 'Ibarra Real Nova', sans-serif;
+    font-size: 45px;
+    font-weight: 400;
+
+    margin-bottom: 40px;
+}
+
+.content-right h3 {
+    color: #33323D;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 50px;
+
+    width: 920px;
+    margin-bottom: 70px;
+}
+
+.content-right img {
+    width: 910px;
+    margin-bottom: 50px;
+}

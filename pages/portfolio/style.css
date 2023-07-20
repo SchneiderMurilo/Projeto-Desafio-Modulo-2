@@ -1,0 +1,187 @@
+.button-portifolio {
+    color: #5FB4A2;
+}
+
+.white-button {
+    height: 60px;
+    width: 250px;
+}
+
+.manage-section {
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 150px;
+}
+
+.manage-section img {
+    width: 790px;
+
+}
+
+.manage-section div {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 205px;
+}
+
+.manage-section h2 {
+    font-size: 55px;
+    margin-bottom: 30px;
+
+}
+
+.manage-section h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+
+    margin-bottom: 70px;
+}
+
+.bookmark-section a {
+    height: 60px;
+    width: 250px;
+}
+
+.bookmark-section {
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 150px;
+}
+
+.bookmark-section img {
+    width: 790px;
+
+}
+
+.bookmark-section div {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-right: 205px;
+}
+
+.bookmark-section h2 {
+    font-size: 55px;
+    margin-bottom: 30px;
+
+}
+
+.bookmark-section h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+
+    margin-bottom: 70px;
+}
+
+.insure-section a {
+    height: 60px;
+    width: 250px;
+}
+
+.insure-section {
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 150px;
+}
+
+.insure-section img {
+    width: 790px;
+
+}
+
+.insure-section div {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-left: 205px;
+}
+
+.insure-section h2 {
+    font-size: 55px;
+    margin-bottom: 30px;
+
+}
+
+.insure-section h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+
+    margin-bottom: 70px;
+}
+
+.fylo-section a {
+    height: 60px;
+    width: 250px;
+}
+
+.fylo-section {
+    margin-top: 50px;
+
+    display: flex;
+    flex-direction: row;
+
+    margin-bottom: 150px;
+}
+
+.fylo-section img {
+    width: 790px;
+
+}
+
+.fylo-section div {
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+
+    width: 580px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    margin-right: 205px;
+}
+
+.fylo-section h2 {
+    font-size: 55px;
+    margin-bottom: 30px;
+
+}
+
+.fylo-section h3 {
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 300;
+    font-size: 25px;
+    line-height: 45px;
+
+    margin-bottom: 70px;
+}

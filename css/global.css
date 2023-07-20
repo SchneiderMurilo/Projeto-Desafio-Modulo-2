@@ -1,0 +1,128 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header a:hover {
+    opacity: 0.7;
+}
+
+
+header {
+    background-color: white;
+    height: 150px;
+
+    display: flex;
+    flex-direction: row;
+
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+header img {
+    position: absolute;
+    height: 40px;
+    left: 165px;
+}
+
+header a {
+    font-family: 'Public Sans', sans-serif;
+    text-decoration: none;
+    color: #33323D;
+
+    position: relative;
+
+    padding: 42px;
+    left: 600px;
+    font-size: 12;
+}
+
+main {
+    padding-left: 165px;
+}
+
+.contact-before-footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    margin-top: 160px;
+    margin-bottom: 160px;
+}
+
+.contact-before-footer h2 {
+    font-size: 55px;
+    width: 500px;
+}
+
+.contact-before-footer a {
+    width: 250px;
+    height: 60px;
+    margin-right: 160px;
+}
+
+footer a:hover {
+    opacity: 0.7;
+}
+
+footer {
+    background-color: #33323D;
+    height: 80px;
+
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+footer img {
+    position: absolute;
+    height: 26px;
+    left: 165px;
+}
+
+.footer-menus a {
+    font-family: 'Public Sans', sans-serif;
+
+    position: relative;
+    left: 274px;
+    text-decoration: none;
+    color: white;
+    margin: 42px;
+}
+
+.footer-redes a {
+    margin-left: -5px;
+}
+
+footer div img {
+    position: relative;
+    margin: 15px;
+    left: 1115px;
+}
+
+/* ==================== buttons */
+
+.white-button {
+    font-size: 18px;
+    list-style: none;
+    text-decoration: none;
+    letter-spacing: 2px;
+
+    font-family: 'Public Sans', sans-serif;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #33323D;
+
+    border: 1px solid #33323D;
+}
+
+.white-button:hover {
+    background-color: #33323D;
+    color: white;
+}

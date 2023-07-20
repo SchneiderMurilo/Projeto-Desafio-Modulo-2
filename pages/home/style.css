@@ -1,0 +1,126 @@
+.button-home {
+    color: #5FB4A2;
+}
+
+.website {
+    display: flex;
+    width: 1580px;
+}
+
+h1 {
+    position: absolute;
+    height: 504px;
+    width: 630px;
+
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 68px;
+    font-weight: 600;
+    line-height: 70px;
+
+    top: 500px;
+    padding: 75px 30px 100px 45px;
+
+    color: #33323D;
+    background: #FAFAFA;
+}
+
+.button-about {
+    top: 940px;
+
+    position: absolute;
+
+    display: flex;
+    align-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+
+    height: 64px;
+    width: 270px;
+    background-color: #203A4C;
+
+}
+
+.button-about:hover {
+    background-color: #5FB4A2;
+}
+
+
+.arrows {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+    width: 64px;
+    background-color: rgba(0, 0, 0, 0.2);
+    margin-left: -42px;
+
+}
+
+.arrows img {
+    height: 23px;
+}
+
+.text-button {
+    font-family: 'Public Sans', sans-serif;
+    font-size: 15px;
+    letter-spacing: 4px;
+    font-weight: 400;
+    color: white;
+    margin-top: -41px;
+    padding-left: 65px;
+
+}
+
+.about-me {
+    margin-bottom: 30px;
+    margin-top: 150px;
+    display: flex;
+    flex-direction: row;
+}
+
+.about-me img {
+    height: 860px;
+}
+
+
+.text-about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    border-top: 1px solid rgba(0, 0, 0, 0.15);
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    margin-left: 200px;
+}
+
+
+.text-about-me h3 {
+    height: 361px;
+    width: 627px;
+
+    font-family: 'Public Sans', sans-serif;
+    opacity: 0.8;
+    color: #33323D;
+
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 42px;
+}
+
+.text-about-me h2 {
+    color: #33323D;
+    font-size: 50px;
+    margin-bottom: 35px;
+    margin-top: 50px;
+    margin-left: -380px;
+
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+.text-about-me a {
+    width: 320px;
+    height: 60px;
+
+    margin-top: 220px;
+}
